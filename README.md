@@ -1,2 +1,2 @@
 # Math
-The way to descrie world.
+The way to describe world.
